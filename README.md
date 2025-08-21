@@ -1,3 +1,8 @@
+# 
+Pour créez un nouveau répertoire à partir de ce template
+
+<img width="572" height="316" alt="Use template" src="https://github.com/user-attachments/assets/baf0c948-05c2-4749-8993-4b8cf563482a" />
+
 # Pluie-de-poules
 Un mystérieux phénomène météorologique frappe la région : il pleut des poules ! Votre mission est de créer un simulateur pour étudier ce phénomène étrange.
 
